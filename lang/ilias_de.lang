@@ -1,0 +1,30 @@
+// 
+// German Language File for CustomMetabarLinks Plugin
+//
+ 
+<!-- language file start -->
+custom_link#:#Individueller Link
+custom_links#:#Individuelle Links
+custom_links_description#:#Erweiterung der Metabar um individuelle Links
+config#:#Konfiguration
+save_success#:#Speichern erfolgreich
+save_failure#:#Speichern fehlgeschlagen!
+nothing_changed#:#Keine &Auml;nderungen
+forbidden_header#:#Keine Berechtigung!
+link_title#:#Titel
+link_active#:#Aktiv
+link_icon#:#Icon
+link_external_link#:#Externer Link
+link_roles#:#Globale Rollen
+link_deactivated#:#Link deaktiviert
+link_activated#:#Link aktiviert
+edit_link#:#Link bearbeiten
+delete_link#:#Link l&ouml;schen
+add_link#:#Link hinzufügen
+back_to_list#:#Zurück zur Übersicht
+link_active_info#:#Der Link wird nur angezeigt, wenn dieser aktiv gesetzt ist
+link_title_info#:#Anzeigename des Links
+link_roles_info#:#Rollen, bei dem der Link angezeigt werden soll
+link_icon_info#:#Anzeigesymbol (Icon) des Links
+link_external_link_info#:#Externer Link zu einer Drittapplikation.
+link_saved#:#&Auml;nderungen gespeichert

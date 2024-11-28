@@ -1,0 +1,30 @@
+// 
+// English Language File for CustomMetabarLinks Plugin
+//
+
+<!-- language file start -->
+custom_link#:#Custom Link
+custom_links#:#Custom Links
+custom_links_description#:#Extension of the meta bar with custom links
+config#:#Configuration
+save_success#:#Save successful
+save_failure#:#Save failed!
+nothing_changed#:#No changes
+forbidden_header#:#No permission!
+link_title#:#Title
+link_active#:#Active
+link_icon#:#Icon
+link_external_link#:#External link
+link_roles#:#Global Roles
+link_deactivated#:#Link deactivated
+link_activated#:#Link activated
+edit_link#:#Edit Link
+delete_link#:#Delete Link
+add_link#:#Add Link
+back_to_list#:#Back to overview
+link_active_info#:#The link will only be displayed if it is set as active
+link_title_info#:#Display name of the link
+link_roles_info#:#Roles for which the link should be displayed
+link_icon_info#:#Display icon for the link
+link_external_link_info#:#External link to a third-party application.
+link_saved#:#Changes saved
